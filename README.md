@@ -33,6 +33,7 @@ but it’s intentional — it’s meant to protect code from abuse, not to maxim
 
 You can find the full legal text here:  
 👉 [ANPL v2.0](./LICENSE.md)
+
 (change "Copyright (c) 2025 AkaruiNeko. All rights reserved." with your name and year)
 
 ---
