@@ -34,7 +34,7 @@ but it’s intentional — it’s meant to protect code from abuse, not to maxim
 You can find the full legal text here:  
 👉 [ANPL v2.0](./LICENSE-TEMPLATE.md)
 
-(change "<year>" with year, and "<name>" with your name)
+(change "\<year>" with year, and "\<name>" with your name)
 
 ---
 
