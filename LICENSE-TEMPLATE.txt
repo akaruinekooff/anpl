@@ -8,6 +8,8 @@ If you do not agree, you must not use the Software.
 
 1. Definitions
 
+For the purposes of this License:
+
 1.1. "Software" shall mean the source code, object code, documentation, and any other work released under this License.
 
 1.2. "Author" shall mean the original creator(s) and copyright holder(s) of the Software.
@@ -21,6 +23,8 @@ If you do not agree, you must not use the Software.
 1.6. "Malicious Use" shall mean use of the Software to create, distribute, or enable malware, viruses, trojans, worms, ransomware, spyware, phishing campaigns, denial-of-service attacks, unauthorized access tools, or any other activity designed to harm persons, property, or digital infrastructure.
 
 2. Grant of Rights
+
+Subject to compliance with the terms of this License:
 
 2.1. Right to Use — You are granted a worldwide, royalty-free, non-exclusive, perpetual right to use the Software solely for Non-Commercial Use.
 
