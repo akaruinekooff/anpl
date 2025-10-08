@@ -32,9 +32,9 @@ but it’s intentional — it’s meant to protect code from abuse, not to maxim
 ## 🧾 Full Text
 
 You can find the full legal text here:  
-👉 [ANPL v2.0](./LICENSE.md)
+👉 [ANPL v2.0](./LICENSE-TEMPLATE.md)
 
-(change "Copyright (c) 2025 AkaruiNeko. All rights reserved." with your name and year)
+(change "<year>" with year, and "<name>" with your name)
 
 ---
 
